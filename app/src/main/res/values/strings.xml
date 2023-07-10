@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">讯捷达</string>
+    <array name="title_tabhost">
+        <item>新闻</item>
+        <item>直播</item>
+        <item>话题</item>
+        <item>我的</item>
+    </array>
+
+    <array name="news_title">
+        <item>头条</item>
+        <item>要闻</item>
+        <item>热点</item>
+        <item>体育</item>
+        <item>财经</item>
+        <item>科技</item>
+        <item>汽车</item>
+        <item>娱乐</item>
+    </array>
+</resources>
